@@ -20,3 +20,12 @@
 .App-link {
   color: #09d3ac;
 }
+
+.hidden {
+  display: none;
+}
+
+.error {
+  color:red;
+  font-weight: bold;
+}
